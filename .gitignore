@@ -23,13 +23,9 @@ V2rayNG/local.properties
 
 # Ignore APK and AAR files
 *.apk
-*.aar
 
 # Ignore signing properties
 signing.properties
-
-# Ignore shared object files
-*.so
 
 # Ignore Google services JSON
 V2rayNG/app/google-services.json
@@ -64,3 +60,4 @@ V2rayNG/app/google-services.json
 # Ignore OS-specific files
 Thumbs.db
 .DS_Store
+GEMINI.md
